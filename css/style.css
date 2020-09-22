@@ -1,5 +1,17 @@
-body{font-family: 'Roboto', sans-serif;}
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(240, 230, 255);
+  color: rgb(40, 40, 40);
+
+}
 
 h1, p{
   text-align: center;
+
+}
+
+
+input[type="number"] {
+  width: 10vw;
+  height: 5vw;
 }
